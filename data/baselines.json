@@ -1,0 +1,46 @@
+{
+  "movement_score": {
+    "Bronze": {
+      "mean": 42,
+      "std": 8
+    },
+    "Silver": {
+      "mean": 50,
+      "std": 7
+    },
+    "Gold": {
+      "mean": 58,
+      "std": 6
+    },
+    "Platinum": {
+      "mean": 65,
+      "std": 5
+    },
+    "Diamond": {
+      "mean": 72,
+      "std": 5
+    }
+  },
+  "cs_per_min": {
+    "Bronze": {
+      "mean": 4.2,
+      "std": 1.1
+    },
+    "Silver": {
+      "mean": 5.1,
+      "std": 1.0
+    },
+    "Gold": {
+      "mean": 6.0,
+      "std": 0.9
+    },
+    "Platinum": {
+      "mean": 6.6,
+      "std": 0.8
+    },
+    "Diamond": {
+      "mean": 7.3,
+      "std": 0.8
+    }
+  }
+}
